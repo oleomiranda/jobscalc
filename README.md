@@ -1,4 +1,4 @@
-<h3>O backend desse projeto eu desenvolvi como uma forma de me desafiar, por esse motivo não é o mesmo que foi feito no projeto Discover da rocketseat e nem utiliza as mesmas tecnologias, eu apenas utiizei o mesmo front-end. </h3>
+<h3>O backend desse projeto eu desenvolvi como uma forma de me desafiar, por esse motivo não é o mesmo que foi feito no projeto Discover da rocketseat e nem utiliza as mesmas tecnologias, eu apenas utilizei o mesmo front-end. </h3>
 
 
 <h1 align="center">
